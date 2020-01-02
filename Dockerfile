@@ -1,4 +1,4 @@
-FROM python:3.7-alpipne
+FROM python:3.7-alpine
 MAINTAINER Renato Casipe
 
 ENV PYTHONUNBUFFERED 1
